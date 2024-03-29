@@ -1,0 +1,15 @@
+# General
+.DS_Store
+__pycache__/
+
+# Python
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Node
+node_modules/
+
+# Data
+/data/*
